@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    display: inline-block;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
