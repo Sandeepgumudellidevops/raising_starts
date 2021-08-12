@@ -1,7 +1,7 @@
 # raising_starts
 
 #### To do list
-
+CHECKING
 1) Activate `About` page with information.
    @Ramesh Can you take a lead on this?
    
